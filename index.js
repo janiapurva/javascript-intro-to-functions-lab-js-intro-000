@@ -18,3 +18,10 @@ function sayHiToGrandma(string){
   if ("HELLO");
   return "YES INDEED!"
 }
+function sayHiToGrandma(string){
+  if ('hello');
+  return"I can't hear you!";}{
+    else if('Hello') 
+      return'YES INDEED';
+    }
+    
