@@ -21,7 +21,7 @@ function sayHiToGrandma(string){
 function sayHiToGrandma(string){
   if ('hello');
   return"I can't hear you!";}{
-    else if('Hello') 
+    else if('Hello')
       return'YES INDEED';
     }
     
